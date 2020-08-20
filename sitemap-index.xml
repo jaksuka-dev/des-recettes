@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+      <loc>https://des-recettes.popcorncab.xyz/sitemap-3.xml</loc>
+  </sitemap>
+  
+  <sitemap>
+      <loc>https://des-recettes.popcorncab.xyz/sitemap-2.xml</loc>
+  </sitemap>
+  
+  <sitemap>
+      <loc>https://des-recettes.popcorncab.xyz/sitemap-1.xml</loc>
+  </sitemap>
+  
+  <sitemap>
+      <loc>https://des-recettes.popcorncab.xyz/sitemap-0.xml</loc>
+  </sitemap>
+  
+</sitemapindex>
